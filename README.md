@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibbushira" alt="habibbushira" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Learning**
+- 🔭 I’m currently working on **Software Interoperability and Integration**
 
 - 🌱 I’m currently learning **Problem solving and analytics on hacker rank**
 
-- 👯 I’m looking to collaborate on **Digital Learning, Digital Market**
+- 👯 I’m looking to collaborate on **Interoperability, Integration**
 
-- 🤝 I’m looking for help with **eCommerce**
+- 🤝 I’m looking for help with **Digital Health and eCommerce**
 
 - 👨‍💻 All of my projects are available at [https://cushcommerce.com/](https://cushcommerce.com/)
 
