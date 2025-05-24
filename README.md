@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **habib.bushira002@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing](https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true)]([https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing](https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true))
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true](https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am fun to work with**
 
