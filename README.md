@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/habibbushira/habibbushira/blob/main/edited.jpg)](https://habibbushira.github.io)
 <h1 align="center">Hi 👋, I'm Habib Bushira</h1>
-<h3 align="center">Senior Software Developer</h3>
+<h3 align="center">Fullstack Developer: Backend Heavy</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibbushira&label=Profile%20views&color=0e75b6&style=flat" alt="habibbushira" /> </p>
@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on **Software Interoperability and Integration**
 
-- 🌱 I’m currently learning **Problem solving and analytics on hacker rank**
+- 🌱 I’m currently learning **Problem solving and analytics**
 
-- 👯 I’m looking to collaborate on **Interoperability, Integration**
+- 👯 I’m looking to collaborate on **Interoperability and Integration**
 
 - 🤝 I’m looking for help with **Digital Health and eCommerce**
 
 - 👨‍💻 All of my projects are available at [https://cushcommerce.com/](https://cushcommerce.com/)
 
-- 💬 Ask me about **JavaScript Frameworks, Spring, Django, Laravel, SQL Databases**
+- 💬 Ask me about **Django, Node, Spring Boot, Laravel, Go, React, Vue, SQL Databases, and MongoDB**
 
 - 📫 How to reach me **habib.bushira002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing](https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing](https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true)]([https://docs.google.com/document/d/1UeiXXdBGNv2WSSmXIiboMKre6FGFNN2KddYi9p0H0dg/edit?usp=sharing](https://docs.google.com/document/d/1ZAFsmxFSuuCu-n31LUDMoBm2pDCf_dqZ/edit?usp=sharing&ouid=110898501613078530235&rtpof=true&sd=true))
 
 - ⚡ Fun fact **I am fun to work with**
 
